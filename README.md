@@ -1,18 +1,25 @@
 ## <div align="center"> Hi ! I'm Taehyeon Kim</div>
+</br>
 
 #### <div align="center">I'm web developer using Java Spring boot. 👋</div> 
 #### <div align="center">I enjoy running and hiking. 🏃🏻 ⛰</div>
 #### <div align="center">Life is a bowl of cherries 🍒</div>
 
+
+</br>
+</br>
+
 <div align="center">
+<img src="https://user-images.githubusercontent.com/101050600/166723383-2428f2e9-4fb0-4521-b21f-3618e4c8a9d3.jpeg" width="900" height="300">
+  
+</br>
+</br>
+</br>
   
 ![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeon&show_icons=true&theme=graywhite)
   
 </div>  
-
-
 </br>
-
 
 ## 🧑🏻‍💻 Skills
 </br>
