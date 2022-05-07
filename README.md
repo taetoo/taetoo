@@ -16,7 +16,7 @@
 </br>
 </br>
   
-![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeon&show_icons=true&theme=graywhite)
+![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taetoo&show_icons=true&theme=graywhite)
   
 </div>  
 </br>
