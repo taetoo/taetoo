@@ -1,7 +1,7 @@
 ## <div align="center"> Hi ! I'm Taehyeon Kim</div>
 </br>
 
-#### <div align="center">I'm web developer using Java Spring boot. 👋</div> 
+#### <div align="center">I'm web developer using Java. 👋</div> 
 #### <div align="center">I enjoy running and hiking. 🏃🏻 ⛰</div>
 #### <div align="center">Life is a bowl of cherries 🍒</div>
 
